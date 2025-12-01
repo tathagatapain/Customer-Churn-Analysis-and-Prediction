@@ -20,10 +20,6 @@ After performing EDA, the next step was to develop a predictive model. Two machi
 
 The performance of the models was evaluated using a variety of metrics, including accuracy, precision, recall, and F1-score. The results of the evaluation showed that the models were able to accurately predict churn with a high degree of confidence.
 
-# Model Deployment
-
-The final step in the project was to deploy the model to a production environment. This involved using the Flask web framework to create a web application that allows users to input customer data and receive predictions about their churn risk.
-
 # Instructions
 
 To run the project, follow these steps:
